@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.apparelshop</groupId>
-    <artifactId>data-retriever</artifactId>
+    <artifactId>data-retriever-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>data-retriever</name>
+    <name>data-retriever-service</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
